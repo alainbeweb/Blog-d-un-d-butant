@@ -1,10 +1,11 @@
 {
-  "name": "devblog",
-  "description": "GatsbyJS blog template for developers",
+  "name": "Blog-d-un-debutant",
+  "description": "GatsbyJS blog template",
   "version": "1.0.0",
-  "author": "Ryan Fitzgerald <ryanfitzgeralddev@gmail.com>",
+  "author": "@alainbeweb",
+  "my sites": "http://emery-france.eu",
   "bugs": {
-    "url": "https://github.com/ryanfitzgerald/devblog/issues"
+    "url": "https://github.com/alainbeweb/devblog/issues"
   },
   "dependencies": {
     "babel-plugin-styled-components": "^1.5.1",
@@ -35,7 +36,7 @@
     "gh-pages": "^0.12.0",
     "prettier": "^1.6.1"
   },
-  "homepage": "https://github.com/ryanfitzgerald/devblog#readme",
+  "homepage": "https://github.com/alainbeweb/#readme",
   "keywords": [
     "gatsby",
     "dev",
@@ -46,7 +47,7 @@
   "main": "n/a",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ryanfitzgerald/devblog.git"
+    "url": "git+https://github.com/alainbeweb/Blog-d-un-debutant.git"
   },
   "scripts": {
     "dev": "gatsby develop",
